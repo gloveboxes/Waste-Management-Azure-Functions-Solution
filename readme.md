@@ -1,14 +1,14 @@
 
 
 
-![Architecture](https://raw.githubusercontent.com/gloveboxes/WasteManagement/master/Images/Waste%20Manage%20System.jpg)
+![Architecture](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/Waste%20Manage%20System.jpg)
 
 
 
 
 ## Stream Analytics
 
-![Stream Analytics](https://raw.githubusercontent.com/gloveboxes/WasteManagement/master/Images/Stream%20Analytics.JPG)
+![Stream Analytics](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/Stream%20Analytics.JPG)
 
     WITH Telemetry AS (
         SELECT
@@ -45,7 +45,7 @@
 
 ## The Things Network to Azure IoT Hub Gateway
 
-![The Things Network and Azure IoT Hub Integration](https://raw.githubusercontent.com/gloveboxes/WasteManagement/master/Images/Slide4.JPG)
+![The Things Network and Azure IoT Hub Integration](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/Slide4.JPG)
 
 
 Technology: Azure Function HTTP Trigger App
@@ -55,13 +55,13 @@ Technology: Azure Function HTTP Trigger App
 
 
 
-![The Things Network Bridge](https://raw.githubusercontent.com/gloveboxes/WasteManagement/master/Images/ThingsNetworkBridgeFunctionAppHttpTrigger.JPG)
+![The Things Network Bridge](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/ThingsNetworkBridgeFunctionAppHttpTrigger.JPG)
 
 
 ## The Things Network Http Integration
 
 
-![The Things Network HTTP Integration](https://raw.githubusercontent.com/gloveboxes/WasteManagement/master/Images/TheThingsNetworkHttpIntegration.JPG)
+![The Things Network HTTP Integration](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/TheThingsNetworkHttpIntegration.JPG)
 
 
 ## Open Weather Map Azure Function App
