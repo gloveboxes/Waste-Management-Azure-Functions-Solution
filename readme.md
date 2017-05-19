@@ -1,4 +1,6 @@
+This solutions was designed to be used in conjunction with The Things Network To Azure IoT Hub Gateway.
 
+[The Things Network to Azure IoT Hub Gateway](https://github.com/gloveboxes/The-Things-Network-Azure-IoT-Hub-Gateway)
 
 
 ![Architecture](https://raw.githubusercontent.com/gloveboxes/Waste-Management-Azure-Functions-Solution/master/Images/Waste%20Manage%20System.jpg)
