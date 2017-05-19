@@ -1,0 +1,13 @@
+﻿{
+  "bindings": [
+    {
+      "name": "alertQueueItem",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "alerts",
+      "connection": "AlertQueue",
+      "accessRights": "Listen"
+    }
+  ],
+  "disabled": false
+}

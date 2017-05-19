@@ -1,9 +1,0 @@
-{
-  "frameworks": {
-    "net46":{
-      "dependencies": {
-        "OpenWeatherMap.Net": "1.0.0"
-      }
-    }
-   }
-}

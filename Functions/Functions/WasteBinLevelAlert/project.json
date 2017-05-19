@@ -1,0 +1,9 @@
+﻿{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Twilio": "4.7.2"
+      }
+    }
+  }
+}

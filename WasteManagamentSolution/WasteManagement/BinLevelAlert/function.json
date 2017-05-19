@@ -1,0 +1,15 @@
+{
+  "scriptFile": "..\\bin\\WasteManagement.dll",
+  "entryPoint": "Alert.Run",
+  "bindings": [
+    {
+      "name": "alertQueueItem",
+      "type": "serviceBusTrigger",
+      "direction": "in",
+      "queueName": "alert",
+      "connection": "AlertQueue",
+      "accessRights": "Manage"
+    }
+  ],
+  "disabled": false
+}
