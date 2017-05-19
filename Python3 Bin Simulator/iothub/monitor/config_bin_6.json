@@ -1,0 +1,9 @@
+{
+  "IotHubAddress":"youriothub-01.azure-devices.net",
+  "DeviceId":"wm-bin-06",
+  "SharedAccessKey":"+nJQuh0I=",
+  "SensorModule":"sensor_waste_level",
+  "BinId":6,
+  "SampleRateSeconds":70,  
+  "HourlyFillRateCMs":[10, 50, 60, 100, 200, 300, 400, 300, 200, 100, 100, 100, 200, 400, 500, 450, 400, 300, 300, 200, 100, 0, 0, 0]
+}

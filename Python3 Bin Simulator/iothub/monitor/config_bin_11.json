@@ -1,0 +1,9 @@
+{
+  "IotHubAddress":"youriothub.azure-devices.net",
+  "DeviceId":"sfm-bin-11",
+  "SharedAccessKey":"QhO8dfU2N4S6QbA3BrfNcPF4+=",
+  "SensorModule":"sensor_waste_level",
+  "BinId":11,
+  "SampleRateSeconds":90,  
+  "HourlyFillRateCMs":[10, 10, 10, 100, 200, 300, 400, 300, 400, 400, 500, 550, 600, 500, 500, 450, 400, 400, 400, 300, 200, 200, 100, 50]
+}
